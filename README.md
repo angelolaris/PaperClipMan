@@ -1,4 +1,6 @@
-# PaperClipMan 3
+# PaperClipMan
+
+Promise no paper cuts
 
 
 
